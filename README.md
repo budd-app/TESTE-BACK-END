@@ -1,7 +1,7 @@
-# 🔥 Desafio – Budd Offline 😈  
+# 🔥 Desafio – Budd 😈  
 Esse teste é feito para você desistir.
 
-Bem-vindo ao desafio para participar da GANG Budd e antes de mais nada, nós sabemos fazer essa task, aqui vamos avaliar sua capacidade e principalmente resiliência de se juntar a nós nesse desafio incrível 🚀  
+Bem-vindo ao desafio para participar da Budd CULTURE e antes de mais nada, nós sabemos fazer essa task, aqui vamos avaliar sua capacidade e principalmente resiliência de se juntar a nós nesse desafio incrível 🚀  
 Queremos alguém **hacker-curioso, resiliente e criativo** para nos ajudar a construir o futuro.  
 Sua missão é implementar um **MVP prático** que mostre como funcionaria uma **compra offline** no Budd.
 
